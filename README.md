@@ -8,3 +8,5 @@ Support the following device:
   TOUCH_3CH
   
   TOUCH_4CH
+  
+  ![image](https://github.com/ItownTech/Touch-xCH/blob/master/touch_4ch.png)
