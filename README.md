@@ -9,4 +9,4 @@ Support the following device:
   
   TOUCH_4CH
   
-  ![image](https://github.com/ItownTech/Touch-xCH/blob/master/touch_4ch.png)
+  ![image](https://github.com/ItownTech/Touch-xCH/blob/master/image/touch_4ch.png)
